@@ -1,0 +1,11 @@
+C:\Users\boobo\Desktop\StaticCheatsSourceCodes\StaticCheats AD Bot\ADBot\bin\Release\ADBot.exe
+C:\Users\boobo\Desktop\StaticCheatsSourceCodes\StaticCheats AD Bot\ADBot\bin\Release\ADBot.pdb
+C:\Users\boobo\Desktop\StaticCheatsSourceCodes\StaticCheats AD Bot\ADBot\obj\Release\ADBot.exe
+C:\Users\boobo\Desktop\StaticCheatsSourceCodes\StaticCheats AD Bot\ADBot\obj\Release\ADBot.pdb
+C:\Users\boobo\Desktop\StaticCheatsSourceCodes\StaticCheats AD Bot\ADBot\obj\Release\ADBot.csprojAssemblyReference.cache
+D:\New folder\StaticCheatsSourceCodes\StaticCheats AD Bot\ADBot\bin\Release\Static_ADbot.exe
+D:\New folder\StaticCheatsSourceCodes\StaticCheats AD Bot\ADBot\bin\Release\Static_ADbot.pdb
+D:\New folder\StaticCheatsSourceCodes\StaticCheats AD Bot\ADBot\obj\Release\ADBot.csprojAssemblyReference.cache
+D:\New folder\StaticCheatsSourceCodes\StaticCheats AD Bot\ADBot\obj\Release\ADBot.csproj.CoreCompileInputs.cache
+D:\New folder\StaticCheatsSourceCodes\StaticCheats AD Bot\ADBot\obj\Release\Static_ADbot.exe
+D:\New folder\StaticCheatsSourceCodes\StaticCheats AD Bot\ADBot\obj\Release\Static_ADbot.pdb
